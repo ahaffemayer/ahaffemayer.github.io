@@ -13,7 +13,7 @@ I'm supervised by [Nicolas Mansard](https://scholar.google.fr/citations?user=rq-
 
 I work in the [GEPETTO Team](https://www.laas.fr/en/teams/gepetto/), which specializes in humanoid robotics.
 
-I graduated from [Les Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I specialized in robotics and mechanical engineering.
+I graduated from [Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I specialized in robotics and mechanical engineering.
 
 ## Publications
 
