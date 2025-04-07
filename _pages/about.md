@@ -26,5 +26,5 @@ Armand Jordana, Sébastien Kleff, Arthur Haffemayer, Joaquim Ortiz-Haro, Justin 
   [Paper, video and open-source implementation here.](https://gepettoweb.laas.fr/articles/haffemayer2025.html)
 
 - **Spring 2024**: *Model Predictive Control under Hard Collision Avoidance Constraints for a Robotic Arm*.  
-  Arthur Haffemayer, Armand Jordana, Médéric Fourmy, Krzysztof Wojciechowski, Guilhem Saurel, Vladimír Petrík, Florent Lamiraux, Nicolas Mansard. Published at **International Conference on Ubiquitous Robots (UR)**
+  Arthur Haffemayer, Armand Jordana, Médéric Fourmy, Krzysztof Wojciechowski, Guilhem Saurel, Vladimír Petrík, Florent Lamiraux, Nicolas Mansard. Published at **International Conference on Ubiquitous Robots (UR)**.
   [Paper, video and open-source implementation here.](https://gepettoweb.laas.fr/articles/haffemayer2024.html)
