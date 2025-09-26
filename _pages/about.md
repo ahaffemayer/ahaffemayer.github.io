@@ -27,7 +27,7 @@ I graduated from [Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne U
 - **Summer 2025**: *Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring*.
 Krzysztof Wojciechowski, Ege Gursoy, Arthur Haffemayer, Sébastien Kleff, Vincent Bonnet, Florent Lamiraux, Nicolas Mansard. Submitted at **ICRA 2025**.
 
-- - **Summer 2025**: *Collision-Free Model Predictive Control Warm-Started with Diffusion Model*.
+- **Summer 2025**: *Collision-Free Model Predictive Control Warm-Started with Diffusion Model*.
 Arthur Haffemayer, Alexandre Chapin, Armand Jordana, Krzysztof Wojciechowski, Florent Lamiraux, Nicolas Mansard, Vladimír Petrík. Submitted at **Robotics and Automation Letters (RA-L)**. [Paper, video and open-source implementation here.](https://ahaffemayer.github.io/slot_attention_diffusion)
 
 - **Winter 2024**: *Infinite-Horizon Value Function Approximation for Model Predictive Control*.
