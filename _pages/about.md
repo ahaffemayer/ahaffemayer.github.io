@@ -17,10 +17,10 @@ I graduated from [Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne U
 
 ## News
 
-- [05/2025] Presenting the paper Collision Avoidance in Model Predictive Control using Velocity Damper in ICRA 2025, Atlanta, USA.
-- [12/2024] [Coding Week](https://www.agimus-project.eu/news-events/news/51-successful-coding-week-at-ciirc-ctu-marks-key-milestone-for-agimus-project) at [CIIRC-CTU](https://www.ciirc.cvut.cz/), Prague for the AGIMUS Project.
-- [06/2024] Presenting the paper Model Predictive Control under Hard Collision Avoidance Constraints for a Robotic Arm in UR 2024, New York, USA.
-- [06/2024] 2 months Invited Scholar in the [Machines in Motion](https://www.machinesinmotion.org/) team in [New York University](https://www.nyu.edu/)
+- **[05/2025]** Presenting the paper Collision Avoidance in Model Predictive Control using Velocity Damper in ICRA 2025, Atlanta, USA.
+- **[12/2024]** [Coding Week](https://www.agimus-project.eu/news-events/news/51-successful-coding-week-at-ciirc-ctu-marks-key-milestone-for-agimus-project) at [CIIRC-CTU](https://www.ciirc.cvut.cz/), Prague for the AGIMUS Project.
+- **[06/2024]** Presenting the paper Model Predictive Control under Hard Collision Avoidance Constraints for a Robotic Arm in UR 2024, New York, USA.
+- **[06/2024]** 2 months Invited Scholar in the [Machines in Motion](https://www.machinesinmotion.org/) team in [New York University](https://www.nyu.edu/)
 
 ## Publications
 
