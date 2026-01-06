@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student passionate about motion planning and advanced control problems, with a particular focus on dynamic collision avoidance in changing environments. My research sits at the intersection of control theory, optimization, and machine learning, aiming to develop robust and reactive solutions for real-time robotic motion.
+I work on robotic motion planning and advanced control, with a focus on dynamic collision avoidance in changing environments. My research lies at the intersection of control theory, optimization, and machine learning, targeting robust and reactive solutions for real-time motion generation. I am currently a postdoctoral researcher at [CIIRC](https://www.ciirc.cvut.cz/), CTU Prague, in the [IMPACT](https://impact.ciirc.cvut.cz/) team  where I combine classical model-based methods with data-driven approaches, including VLA, to bridge theory and learning for practical robotic systems.
 
-I'm supervised by [Nicolas Mansard](https://scholar.google.fr/citations?user=rq-9xAkAAAAJ&hl=en) and [Florent Lamiraux](https://scholar.google.fr/citations?user=WNlfd2sAAAAJ&hl=fr).
+I mainly work with Pr. [Josef Sivic](https://people.ciirc.cvut.cz/~sivic/) and Dr. [Vladimir Petrik](https://scholar.google.com/citations?user=IiHnyEoAAAAJ&hl=en). 
 
-I work in the [GEPETTO Team](https://www.laas.fr/en/teams/gepetto/), which specializes in humanoid robotics.
+During my PhD., I focused on dynamic collision avoidance on manipulator arms, supervised by [Nicolas Mansard](https://scholar.google.fr/citations?user=rq-9xAkAAAAJ&hl=en) and [Florent Lamiraux](https://scholar.google.fr/citations?user=WNlfd2sAAAAJ&hl=fr), in the [GEPETTO Team](https://www.laas.fr/en/teams/gepetto/), which specializes in humanoid robotics.
 
 I graduated from [Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I specialized in robotics and mechanical engineering.
 
 ## News
-
+- **[11/2025]** Moving to Prague, Czech Republic, to start a postdoc in CIIRC CTU. 
+- **[10/2025]** Successfully defending my PhD.!  
 - **[05/2025]** Presenting the paper Collision Avoidance in Model Predictive Control using Velocity Damper in ICRA 2025, Atlanta, USA.
 - **[12/2024]** [Coding Week](https://www.agimus-project.eu/news-events/news/51-successful-coding-week-at-ciirc-ctu-marks-key-milestone-for-agimus-project) at [CIIRC-CTU](https://www.ciirc.cvut.cz/), Prague for the AGIMUS Project.
 - **[06/2024]** Presenting the paper Model Predictive Control under Hard Collision Avoidance Constraints for a Robotic Arm in UR 2024, New York, USA.
