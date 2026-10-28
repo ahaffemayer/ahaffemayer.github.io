@@ -16,11 +16,11 @@ My PhD, supervised by [Nicolas Mansard](https://scholar.google.fr/citations?user
 
 **Core expertise:** Model Predictive Control (MPC) · Motion Planning · Dynamic Collision Avoidance · Reinforcement Learning / VLA / Diffusion for Robotics · Production-Quality Robotics Software
 
-I graduated from [Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I specialized in robotics and mechanical engineering.
+I graduated from [Arts et Métiers](https://artsetmetiers.fr/en) and [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I specialized in robotics and mechanical engineering.
 
 ## News
 - **[05/2026]** Moving to London, UK, to join [Machenta](https://machenta.com) as Founding Robotics Engineer.
-- **[11/2025]** Moving to Prague, Czech Republic, to start a postdoc in CIIRC CTU. 
+- **[11/2025]** Moving to Prague, Czech Republic, to start a postdoc at CIIRC CTU. 
 - **[10/2025]** Successfully defending my PhD!  
 - **[05/2025]** Presenting the paper Collision Avoidance in Model Predictive Control using Velocity Damper in ICRA 2025, Atlanta, USA.
 - **[12/2024]** [Coding Week](https://www.agimus-project.eu/news-events/news/51-successful-coding-week-at-ciirc-ctu-marks-key-milestone-for-agimus-project) at [CIIRC-CTU](https://www.ciirc.cvut.cz/), Prague for the AGIMUS Project.
@@ -29,13 +29,13 @@ I graduated from [Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne U
 
 ## Publications
 
-- **Fall 2025**: *Diffusion Augmented Model Predictive Control for Collision Avoidance in Cluttered Robotic Environments*. Arthur Haffemayer. PhD thesis. [Thesis here.](https://theses.hal.science/tel-05422954/). 
+- **Fall 2025**: *Diffusion Augmented Model Predictive Control for Collision Avoidance in Cluttered Robotic Environments*. Arthur Haffemayer. PhD thesis. [Thesis here.](https://theses.hal.science/tel-05422954/)
 
 - **Summer 2025**: *Learning-Guided Force-Feedback Model Predictive Control with Obstacle Avoidance for Robotic Deburring*.
-Krzysztof Wojciechowski, Ege Gursoy, Arthur Haffemayer, Sébastien Kleff, Vincent Bonnet, Florent Lamiraux, Nicolas Mansard. Submitted to **ICRA 2025**.
+Krzysztof Wojciechowski, Ege Gursoy, Arthur Haffemayer, Sébastien Kleff, Vincent Bonnet, Florent Lamiraux, Nicolas Mansard. Accepted at **ICRA 2026**.
 
 - **Summer 2025**: *Collision-Free Model Predictive Control Warm-Started with Diffusion Model*.
-Arthur Haffemayer, Alexandre Chapin, Armand Jordana, Krzysztof Wojciechowski, Florent Lamiraux, Nicolas Mansard, Vladimír Petrík. Submitted to **Robotics and Automation Letters (RA-L)**. [Paper, video and open-source implementation here.](https://ahaffemayer.github.io/slot_attention_diffusion)
+Arthur Haffemayer, Alexandre Chapin, Armand Jordana, Krzysztof Wojciechowski, Florent Lamiraux, Nicolas Mansard, Vladimír Petrík. Published at **Robotics and Automation Letters (RA-L)**. [Paper, video and open-source implementation here.](https://ahaffemayer.github.io/slot_attention_diffusion)
 
 - **Winter 2024**: *Infinite-Horizon Value Function Approximation for Model Predictive Control*.
 Armand Jordana, Sébastien Kleff, Arthur Haffemayer, Joaquim Ortiz-Haro, Justin Carpentier, Nicolas Mansard, Ludovic Righetti. Published at **Robotics and Automation Letters (RA-L)**. [Paper here.](https://arxiv.org/pdf/2502.06760)
