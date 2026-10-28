@@ -1,19 +1,25 @@
 ---
 permalink: /
 title: "About"
+excerpt: "Founding Robotics Engineer at Machenta, working on control theory, real-time motion planning, and machine learning for robots."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at [CIIRC](https://www.ciirc.cvut.cz/), CTU Prague, in the [IMPACT](https://impact.ciirc.cvut.cz/)  team. My research focuses on robotic motion planning and advanced control, with an emphasis on dynamic collision avoidance in changing environments. I work at the intersection of control theory, optimization, and machine learning, developing robust and reactive methods for real-time motion generation by combining classical model-based approaches with data-driven techniques, including VLA. I mainly work with Pr. [Josef Sivic](https://people.ciirc.cvut.cz/~sivic/) and Dr. [Vladimir Petrik](https://scholar.google.com/citations?user=IiHnyEoAAAAJ&hl=en).  
+I'm a Founding Robotics Engineer at [Machenta](https://machenta.com), working at the intersection of advanced control theory, real-time motion planning, and machine learning.
 
-During my PhD, I focused on dynamic collision avoidance on manipulator arms, supervised by [Nicolas Mansard](https://scholar.google.fr/citations?user=rq-9xAkAAAAJ&hl=en) and [Florent Lamiraux](https://scholar.google.fr/citations?user=WNlfd2sAAAAJ&hl=fr), in the [GEPETTO Team](https://www.laas.fr/en/teams/gepetto/), which specializes in humanoid robotics.
+I own the entire robotics stack, from motor drivers to AI model integration, running on a heterogeneous fleet (UR7e, Franka FR3, Unitree G1, YAMS Pro, Rizon4). That includes the full control stack, real-time collision avoidance, and safety.
+
+My PhD, supervised by [Nicolas Mansard](https://scholar.google.fr/citations?user=rq-9xAkAAAAJ&hl=en) and [Florent Lamiraux](https://scholar.google.fr/citations?user=WNlfd2sAAAAJ&hl=fr) in the [GEPETTO](https://www.laas.fr/en/teams/gepetto/) team, focused on diffusion-augmented Model Predictive Control (MPC). It was followed by a postdoc in the [IMPACT](https://impact.ciirc.cvut.cz/) team at [CIIRC](https://www.ciirc.cvut.cz/) CTU, where I worked with [Josef Sivic](https://people.ciirc.cvut.cz/~sivic/) and [Vladimír Petrík](https://scholar.google.com/citations?user=IiHnyEoAAAAJ&hl=en) on merging Vision-Language-Action (VLA) models with classical control. This research background is what I now bring into production.
+
+**Core expertise:** Model Predictive Control (MPC) · Motion Planning · Dynamic Collision Avoidance · Reinforcement Learning / VLA / Diffusion for Robotics · Production-Quality Robotics Software
 
 I graduated from [Arts Et Métiers](https://artsetmetiers.fr/en) and [Sorbonne Université](https://www.sorbonne-universite.fr/en), where I specialized in robotics and mechanical engineering.
 
 ## News
+- **[05/2026]** Moving to London, UK, to join [Machenta](https://machenta.com) as Founding Robotics Engineer.
 - **[11/2025]** Moving to Prague, Czech Republic, to start a postdoc in CIIRC CTU. 
 - **[10/2025]** Successfully defending my PhD!  
 - **[05/2025]** Presenting the paper Collision Avoidance in Model Predictive Control using Velocity Damper in ICRA 2025, Atlanta, USA.
